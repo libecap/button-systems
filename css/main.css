@@ -17,7 +17,7 @@ html {
 }
 
 .btn:hover {
-  background-color: red;
+  background-color: darkgreen;
   border-color: darkgreen;
 }
 
